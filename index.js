@@ -1,3 +1,5 @@
+'use strict';
+
 exports.crypto = require('./src/crypto');
 exports.curve = require('./src/curve');
 exports.keyhelper = require('./src/keyhelper');
